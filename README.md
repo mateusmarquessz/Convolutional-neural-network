@@ -1,5 +1,5 @@
 <h1>
-     <img align="center" width="40px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/neural-networks-2903215-2408323.png?f=avif&w=256">
+     <img align="center" width="40px" src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/artificial-neural-network.png">
     <span> Convolutional Neural Network </span>
 </h1>
 
