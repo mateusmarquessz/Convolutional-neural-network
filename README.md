@@ -75,3 +75,4 @@ O objetivo nosso foi de desenvolver uma Convolutional Neural Network (CNN) como 
   <tfoot></tfoot>
 </table>
 
+## ARTIGO
