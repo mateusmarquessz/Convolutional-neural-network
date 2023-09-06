@@ -14,6 +14,15 @@ O objetivo nosso foi de desenvolver uma Convolutional Neural Network (CNN) como 
 <a href="https://www.python.org/"  target="_blank">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </a>
+<a href="https://www.tensorflow.org/?hl=pt-br"  target="_blank">
+    <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
+</a>
+<a href="https://pandas.pydata.org/"  target="_blank">
+    <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png?20200210000431">
+</a>
+<a href="https://colab.google/"  target="_blank">
+    <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg">
+</a>
 
 
 ## Percurso
