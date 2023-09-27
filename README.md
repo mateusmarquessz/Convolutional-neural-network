@@ -38,11 +38,14 @@ O objetivo nosso foi de desenvolver uma Convolutional Neural Network (CNN) como 
     <tr>
       <td>01</td>
       <td>Escolha dos Dataset</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material Usado" src="">
-        </a>
-      </td>
+          <td align="center">
+          <a href="https://www.kaggle.com/datasets/riotulab/car-make-model-and-generation">
+                <img align="center" alt="Car Dataset" src="https://cdn-icons-png.flaticon.com/512/683/683092.png" width="50" height="50">
+           </a>
+          <a href="https://www.kaggle.com/datasets/mahibuzzaman/multicancer7-cancer-23-classes-combined-512x512">
+               <img align="center" alt="Cancer Dataset" src="https://cdn-icons-png.flaticon.com/512/5570/5570758.png" width="50" height="50">
+           </a>
+          </td>
     </tr>
     <tr>
       <td>02</td>
