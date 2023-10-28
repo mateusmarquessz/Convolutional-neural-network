@@ -52,8 +52,8 @@ Deixando claro que o codigo foi feito todo no Google Colab!!!
       <td>02</td>
       <td>Desenvolvimento com Tensoflow</td>
       <td align="center">
-        <a href="">
-           <img align="center" alt="Material Usado" src="">
+        <a href="https://github.com/mateusmarquessz/Convolutional-neural-network/tree/main/CNN">
+           <img align="center" alt="Material Usado" src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/artificial-neural-network.png"  width="50" height="50">
         </a>
       </td>
     </tr>
@@ -62,16 +62,16 @@ Deixando claro que o codigo foi feito todo no Google Colab!!!
       <td>Resultados</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material Usado" src="">
+           <img align="center" alt="Material Usado" src="https://cdn-icons-png.flaticon.com/512/992/992848.png" width="50" height="50">
         </a>
       </td>    
     </tr>
     <tr>
       <td>04</td>
-      <td>Escrita do Artigo</td>
+      <td>Slide da apresentação</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material Usado" src="">
+           <img align="center" alt="Material Usado" src="https://cdn-icons-png.flaticon.com/512/270/270026.png"  width="50" height="50">
         </a>
       </td>    
     </tr>
