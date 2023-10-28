@@ -52,7 +52,7 @@ Deixando claro que o codigo foi feito todo no Google Colab!!!
       <td>02</td>
       <td>Desenvolvimento da CNN</td>
       <td align="center">
-        <a href="https://github.com/mateusmarquessz/Convolutional-neural-network/tree/main/CNN">
+        <a href="https://github.com/mateusmarquessz/Convolutional-neural-network/tree/main/01-CNN">
            <img align="center" alt="Material Usado" src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/artificial-neural-network.png"  width="50" height="50">
         </a>
       </td>
