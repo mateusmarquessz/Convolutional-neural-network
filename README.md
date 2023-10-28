@@ -50,7 +50,7 @@ Deixando claro que o codigo foi feito todo no Google Colab!!!
     </tr>
     <tr>
       <td>02</td>
-      <td>Desenvolvimento com Tensoflow</td>
+      <td>Desenvolvimento da CNN</td>
       <td align="center">
         <a href="https://github.com/mateusmarquessz/Convolutional-neural-network/tree/main/CNN">
            <img align="center" alt="Material Usado" src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/artificial-neural-network.png"  width="50" height="50">
