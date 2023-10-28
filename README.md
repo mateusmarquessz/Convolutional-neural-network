@@ -62,7 +62,7 @@ Deixando claro que o codigo foi feito todo no Google Colab!!!
       <td>Resultados</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material Usado" src="">
+           <img align="center" alt="Material Usado" src="https://cdn-icons-png.flaticon.com/512/992/992848.png" width="50" height="50">
         </a>
       </td>    
     </tr>
@@ -71,7 +71,7 @@ Deixando claro que o codigo foi feito todo no Google Colab!!!
       <td>Slide da apresentação</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material Usado" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fslides_324128&psig=AOvVaw3T9RfGYe7M5Z84qxVlHnkY&ust=1698616774358000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi3vd7emYIDFQAAAAAdAAAAABAE"  width="50" height="50">
+           <img align="center" alt="Material Usado" src="https://cdn-icons-png.flaticon.com/512/270/270026.png"  width="50" height="50">
         </a>
       </td>    
     </tr>
