@@ -50,7 +50,7 @@ Deixando claro que o codigo foi feito todo no Google Colab!!!
     </tr>
     <tr>
       <td>02</td>
-      <td>Desenvolvimento com Tensoflow</td>
+      <td>Desenvolvimento da CNN</td>
       <td align="center">
         <a href="https://github.com/mateusmarquessz/Convolutional-neural-network/tree/main/CNN">
            <img align="center" alt="Material Usado" src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/artificial-neural-network.png"  width="50" height="50">
@@ -61,7 +61,7 @@ Deixando claro que o codigo foi feito todo no Google Colab!!!
       <td>03</td>
       <td>Resultados</td>
       <td align="center">
-        <a href="">
+        <a href="https://github.com/mateusmarquessz/Convolutional-neural-network/tree/main/02-Resultados">
            <img align="center" alt="Material Usado" src="https://cdn-icons-png.flaticon.com/512/992/992848.png" width="50" height="50">
         </a>
       </td>    
@@ -70,7 +70,7 @@ Deixando claro que o codigo foi feito todo no Google Colab!!!
       <td>04</td>
       <td>Slide da apresentação</td>
       <td align="center">
-        <a href="">
+        <a href="https://github.com/mateusmarquessz/Convolutional-neural-network/blob/main/03-Slides%20de%20Apresentacao/Slides.pdf">
            <img align="center" alt="Material Usado" src="https://cdn-icons-png.flaticon.com/512/270/270026.png"  width="50" height="50">
         </a>
       </td>    
