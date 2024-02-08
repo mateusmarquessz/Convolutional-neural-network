@@ -6,8 +6,7 @@
 Repositório desenvolvido para o trabalho da faculdade da materia de Inteligência Artificial do 6º período da Faculdade
 
 ## Objetivo
-O objetivo nosso foi de desenvolver uma Convolutional Neural Network (CNN) como parte de um trabalho acadêmico e explorar e aplicar os conceitos fundamentais de aprendizado de máquina e visão computacional em um contexto prático e relevante. Usamos Python com a biblioteca Tensorflow e Pandas e usamos o Google Colab para fazer os codigos, com isso e bom falar que as CNN desempenham um papel vital em uma ampla variedade de aplicações, desde reconhecimento de padrões em imagens médicas até classificação de objetos em sistemas de visão computacional.
-Deixando claro que o codigo foi feito todo no Google Colab!!!
+Desenvolvemos uma Convolutional Neural Network (CNN) como parte de um projeto acadêmico, explorando conceitos de aprendizado de máquina e visão computacional. Utilizamos Python com Tensorflow e Pandas no Google Colab. As CNNs são cruciais em várias aplicações, desde reconhecimento em imagens médicas até classificação de objetos. Destacamos a relevância prática e a eficiência do Google Colab para implementação colaborativa. O projeto integra teoria e prática, oferecendo uma experiência enriquecedora em aprendizado de máquina e visão computacional.
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
