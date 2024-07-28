@@ -77,5 +77,6 @@ Desenvolvemos uma Convolutional Neural Network (CNN) como parte de um projeto ac
   </tbody>
   <tfoot></tfoot>
 </table>
-
-## ARTIGO
+<h1>
+    <a href="https://github.com/mateusmarquessz/Convolutional-neural-network/blob/main/Artigo%20CNNs.pdf">Artigo sobre CNNs</a>
+</h1>
